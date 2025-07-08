@@ -1,3 +1,4 @@
+//Written by Namugarura Syda & Conrad Waako
 import {assert} from 'chai';
 //we import factorial function from factorial file
 import { factorial } from '../factorial.js';
