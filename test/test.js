@@ -1,5 +1,5 @@
 import {assert} from 'chai';
-//we import factorial as a
+//we import factorial function from factorial file
 import { factorial } from '../factorial.js';
 
 describe('factorial', function(){
